@@ -1,1 +1,1 @@
-# dfa_to_regex
+# DFA to Regular Expression
