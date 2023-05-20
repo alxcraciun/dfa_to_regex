@@ -1,0 +1,26 @@
+--- Problem 1
+
+A
+B
+A 0 B
+B 1 A
+
+--- Problem 2
+
+q1
+q4 q3 q5
+q1 a q2
+q2 b q4
+q2 c q3
+q2 d q5
+
+--- Problema 3
+
+q1
+q2
+q1 c q1
+q1 a q2
+q2 d q2
+q2 b q1
+
+---
